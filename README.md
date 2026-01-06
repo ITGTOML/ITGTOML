@@ -5,7 +5,7 @@
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ❝ See, sunshine? ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Strawpage](https://itgtoml.straw.page)ㅤㅤ • ㅤㅤ[Carrd](https://itgtoml.carrd.co)ㅤㅤ •ㅤㅤ [Ata](itgtoml.atabook.org)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Strawpage](https://itgtoml.straw.page)ㅤㅤ • ㅤㅤ[Carrd](https://itgtoml.carrd.co)ㅤㅤ •ㅤㅤ [Ata](itgtoml.atabook.org)
 ㅤㅤ
 
 ㅤㅤㅤㅤㅤㅤread carrd before proceeding, __extremely mandatory.__
