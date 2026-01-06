@@ -1,13 +1,13 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤ
-<img width="1812" height="368" alt="Untitled255_20260106153529" src="https://github.com/user-attachments/assets/8c79b587-d3e1-451b-b38a-e00e81256f3b" />
+ ㅤ𝐗𝐈𝐈𝐈.
+<img width="1812" height="368" alt="Untitled255_20260106154737" src="https://github.com/user-attachments/assets/93199764-0ae1-4666-997a-7980f7e72ac9" />
 
-<img width="1812" height="787" alt="Untitled254_20260106152659" src="https://github.com/user-attachments/assets/1324c059-bd28-4408-9f87-fa63c94d1142" />
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ❝ See, sunshine? ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Strawpage](https://itgtoml.straw.page)ㅤㅤ • ㅤㅤ[Carrd](https://itgtoml.carrd.co)ㅤㅤ •ㅤㅤ [Ata](itgtoml.atabook.org)
 ㅤㅤ
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ❝ See sunshine? 
-ㅤ
-ㅤ
+ㅤㅤㅤㅤㅤㅤread carrd before proceeding, __extremely mandatory.__
 
-ㅤㅤㅤㅤㅤㅤㅤㅤ[Strawpage](https://itgtoml.straw.page)ㅤㅤ • ㅤㅤ[Carrd](https://itgtoml.carrd.co)ㅤㅤ •ㅤㅤ [Ata](itgtoml.atabook.org)
-ㅤㅤ
+C+H always , 
