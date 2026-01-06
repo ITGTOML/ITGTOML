@@ -10,4 +10,4 @@
 
 ㅤㅤㅤㅤㅤㅤread carrd before proceeding, __extremely mandatory.__
 
-C+H always , 
+C+H always ✷ strict no roleplaying ✷ ships iwc ✷ w2i preference to catch my eye and we can continue having a normal conversation afterwards ✷ usually found in Greek Mythology/Hazbin Hotel area. 
