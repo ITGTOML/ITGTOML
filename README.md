@@ -5,9 +5,9 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ❝ See, sunshine? ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Strawpage](https://itgtoml.straw.page)ㅤㅤ • ㅤㅤ[Carrd](https://itgtoml.carrd.co)ㅤㅤ •ㅤㅤ [Ata](itgtoml.atabook.org)
+ㅤㅤㅤㅤㅤㅤㅤㅤ[Strawpage](https://itgtoml.straw.page)ㅤㅤ • ㅤㅤ[Carrd](https://itgtoml.carrd.co)ㅤㅤ •ㅤㅤ [Ata](itgtoml.atabook.org)
 ㅤㅤ
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤread carrd before proceeding, __extremely mandatory.__
+ㅤㅤㅤㅤㅤㅤㅤread carrd before proceeding, __extremely mandatory.__
 
 C+H always ✷ strict no roleplaying ✷ ships iwc ✷ w2i preference to catch my eye and we can continue having a normal conversation afterwards ✷ usually found in Greek Mythology/Hazbin Hotel area. 
