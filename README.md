@@ -11,6 +11,8 @@
 ㅤㅤㅤㅤㅤㅤread carrd before proceeding, __extremely mandatory.__
 
 
+<div align="center">
+  
 <details>
   <summary> info. </summary>
 
@@ -19,3 +21,5 @@
 
 
 </details>
+
+</div>
