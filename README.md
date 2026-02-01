@@ -10,5 +10,12 @@
 
 ㅤㅤㅤㅤㅤㅤread carrd before proceeding, __extremely mandatory.__
 
-$().dropdown('toggle')
-- meow
+
+
+    Small button
+  </button>
+  <div class="dropdown-menu">
+  </div>
+</div>
+<div class="btn-group">
+  <button class="btn btn-secondary btn-sm" type="button">
