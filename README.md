@@ -11,27 +11,11 @@
 ㅤㅤㅤㅤㅤㅤread carrd before proceeding, __extremely mandatory.__
 
 
-// Dropdown Menu
-// https://gist.github.com/2795856
-(function($) {
-    "use strict";
-    // Toggles .active
-    $(".submenu-trigger").click(function() {
-        $(".submenu-trigger").not(this).removeClass("active");
-        $(this).toggleClass("active");
-        return false;
-    });
-    $(".trigger a").click(function(e) {
-        e.preventDefault();
-    });
-    // Prevents expanded menu item from hiding when clicking a subitem 
-    $(".submenu").click(function(e) {
-        e.stopPropagation();
-    });
-    // Hides the submenu when clicking outside the nav and
-    // removes .active from selected nav items
-    $(document).click(function() {
-        $(".submenu").addClass("hidden");
-        $(".submenu-trigger").removeClass("active");
-    });
-});
+<details>
+  <summary>▶️ My top kins/fictions !!</summary>
+
+  - Character 1  
+  - Character 2  
+  - Character 3  
+
+</details>
