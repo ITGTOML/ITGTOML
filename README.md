@@ -10,4 +10,4 @@
 
 ㅤㅤㅤㅤㅤㅤread carrd before proceeding, __extremely mandatory.__
 
-C+H always · strict no roleplaying · ships iwec · usually off-tab so w2i preference to catch my eye and we can continue from there · usually found in Greek Mythology/Hazbin Hotel area. 
+- C+H always · strict no roleplaying · ships iwec · usually off-tab so w2i preference to catch my eye and we can continue from there · usually found in Greek Mythology/Hazbin Hotel area. 
