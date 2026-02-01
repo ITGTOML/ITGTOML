@@ -4,7 +4,7 @@
 𝐗𝐈𝐈𝐈.
 <br>
 <br>
-> <img width="570" height="163" alt="Untitled275_20260202013016" src="https://github.com/user-attachments/assets/43248c8b-db72-4255-9aab-3760535fa01d" />
+> <img width="570" height="163" alt="Untitled275_20260202013847" src="https://github.com/user-attachments/assets/8b5968c6-6b7f-47d0-b771-f5d8215d79bd" />
 > <br>
 > <br>
 > ❝ Anybody who loves under the sun is short-lived.
