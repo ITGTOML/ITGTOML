@@ -11,5 +11,27 @@
 ㅤㅤㅤㅤㅤㅤread carrd before proceeding, __extremely mandatory.__
 
 
-
-    <$().dropdown('toggle')>
+// Dropdown Menu
+// https://gist.github.com/2795856
+(function($) {
+    "use strict";
+    // Toggles .active
+    $(".submenu-trigger").click(function() {
+        $(".submenu-trigger").not(this).removeClass("active");
+        $(this).toggleClass("active");
+        return false;
+    });
+    $(".trigger a").click(function(e) {
+        e.preventDefault();
+    });
+    // Prevents expanded menu item from hiding when clicking a subitem 
+    $(".submenu").click(function(e) {
+        e.stopPropagation();
+    });
+    // Hides the submenu when clicking outside the nav and
+    // removes .active from selected nav items
+    $(document).click(function() {
+        $(".submenu").addClass("hidden");
+        $(".submenu-trigger").removeClass("active");
+    });
+});
