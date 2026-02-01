@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
   
 𝐗𝐈𝐈𝐈.
@@ -28,7 +28,7 @@ read carrd before proceeding, __extremely mandatory.__
 
 
   
-   ![Visitor Count](https://profile-counter.glitch.me/woah/count.svg&color=f5d065)
+   ![Visitor Count](https://profile-counter.glitch.me/woah/count.svg)
 
    
    *lawkins!* ↑
