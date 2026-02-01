@@ -10,4 +10,9 @@
 
 ㅤㅤㅤㅤㅤㅤread carrd before proceeding, __extremely mandatory.__
 
-- C+H always · strict no roleplaying · ships iwec · usually off-tab so w2i preference to catch my eye and we can continue from there · usually found in Greek Mythology/Hazbin Hotel area. 
+<div class="submenu-trigger single-dropdown">
+  <a href="#" class="dropdown-button">Toggle Button</a>
+  <ul class="submenu">
+    <li><a href="- C+H always · strict no roleplaying · ships iwec · usually off-tab so w2i preference to catch my eye and we can continue from there · usually found in Greek Mythology/Hazbin Hotel area." target="_blank"></a></li>
+  </ul>
+</div>
