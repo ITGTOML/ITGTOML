@@ -28,7 +28,8 @@ read carrd before proceeding, __extremely mandatory.__
 
 
   
-   ![Visitor Count](https://profile-counter.glitch.me/woah/count.svg)
+   ![Visitors](https://profile-counter.glitch.me/itgtoml/count.svg)
+   
 
    
    *lawkins!* ↑
