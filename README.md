@@ -8,7 +8,6 @@
 <br>
 <br>
 ❝ See, sunshine?
-  
 <br>
 <br>
 <br>
