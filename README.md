@@ -12,10 +12,10 @@
 
 
 <details>
-  <summary>▶️ My top kins/fictions !!</summary>
+  <summary> info. </summary>
 
-  - Character 1  
-  - Character 2  
-  - Character 3  
+  - Lawrence · 7teen · Genderfluid · Any pronouns
+  - C+H advocated/strongly encouraged · Strict no roleplaying · W2i preference if off-tab · Free interaction if active · Usually spotted in Greek Mythology/Hazbin Hotel Area.
+
 
 </details>
