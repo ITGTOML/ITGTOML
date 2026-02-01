@@ -14,11 +14,12 @@
 read carrd before proceeding, __extremely mandatory.__
   
 <details>
-  <summary><sub><b> info. </b></sub></summary>
+  <summary><sub><b> ㅤㅤinfo. </b></sub></summary>
 
-  - Lawrence · 7teen · Genderfluid · Any pronouns
+<sub>
+  - Lawrence · 7teen · Genderfluid · Any pronouns <br>
   - C+H advocated/strongly encouraged · Strict no roleplaying · W2i preference if off-tab · Free interaction if active · Usually spotted in Greek Mythology/Hazbin Hotel Area.
-
+</sub>
 
 </details>
 
