@@ -27,7 +27,7 @@ read carrd before proceeding, __extremely mandatory.__
 
 
   
-   ![lawkins](https://komarev.com/ghpvc/?username=itgtoml&color=f5d065)
+   ![lawkins](https://komarev.com/ghpvc/?username=itgtoml&color=f5d065-v2)
 
    
    *lawkins!* ↑
