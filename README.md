@@ -5,7 +5,7 @@
 <img width="1812" height="368" alt="Untitled255_20260106154737" src="https://github.com/user-attachments/assets/93199764-0ae1-4666-997a-7980f7e72ac9" />
 
 
-❝ See, sunshine?
+<font color="#f5d065">❝ See, sunshine?</font>
 
 ㅤ
 [Strawpage](https://itgtoml.straw.page)ㅤㅤ · ㅤㅤ[Carrd](https://itgtoml.carrd.co)ㅤㅤ ·ㅤㅤ [Ata](https://itgtoml.atabook.org)
