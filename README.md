@@ -22,6 +22,8 @@ read carrd before proceeding, __extremely mandatory.__
   <summary><sub><b> ㅤㅤinfo. </b></sub></summary>
 
 <sub>
+ <br>
+ <br>
    Lawrence · 7teen · Genderfluid · Any pronouns <br>
    C+H advocated/strongly encouraged · Strict no roleplaying · W2i preference if off-tab · <br>
   Free interaction if active · Usually spotted in Greek Mythology/Hazbin Hotel Area.<br>
