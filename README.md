@@ -7,7 +7,7 @@
 <img width="1812" height="368" alt="Untitled255_20260106154737" src="https://github.com/user-attachments/assets/93199764-0ae1-4666-997a-7980f7e72ac9" />
 <br>
 <br>
-<span style="color:#f5d065;">❝ See, sunshine?</span>
+<span style="color:f5d065;">❝ See, sunshine?</span>
 <br>
 <br>
 <br>
@@ -24,6 +24,8 @@ read carrd before proceeding, __extremely mandatory.__
 <sub>
    Lawrence · 7teen · Genderfluid · Any pronouns <br>
    C+H advocated/strongly encouraged · Strict no roleplaying · W2i preference if off-tab · Free interaction if active · Usually spotted in Greek Mythology/Hazbin Hotel Area.
+   [Profile views](https://komarev.com/ghpvc/?username=itgtoml&color=f5d065)
+  
 </sub>
 
 </details>
