@@ -26,7 +26,8 @@ read carrd before proceeding, __extremely mandatory.__
    C+H advocated/strongly encouraged · Strict no roleplaying · W2i preference if off-tab · Free interaction if active · Usually spotted in Greek Mythology/Hazbin Hotel Area.
 
 
-   ![lawkins](https://komarev.com/ghpvc/?username=itgtoml&color=f5d065)
+  
+   *lawkins* · ![lawkins](https://komarev.com/ghpvc/?username=itgtoml&color=f5d065)
    
    
   
