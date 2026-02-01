@@ -7,7 +7,7 @@
 <img width="1812" height="368" alt="Untitled255_20260106154737" src="https://github.com/user-attachments/assets/93199764-0ae1-4666-997a-7980f7e72ac9" />
 <br>
 <br>
-❝ See, sunshine?
+<span style="color:#f5d065;">❝ See, sunshine?</span>
 <br>
 <br>
 <br>
