@@ -10,9 +10,13 @@
 
 ㅤㅤㅤㅤㅤㅤread carrd before proceeding, __extremely mandatory.__
 
-<div class="submenu-trigger single-dropdown">
-  <a href="#" class="dropdown-button">Toggle Button</a>
-  <ul class="submenu">
-    <li><a href="- C+H always · strict no roleplaying · ships iwec · usually off-tab so w2i preference to catch my eye and we can continue from there · usually found in Greek Mythology/Hazbin Hotel area." target="_blank"></a></li>
-  </ul>
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown button
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" href="#">Action</a>
+    <a class="dropdown-item" href="#">Another action</a>
+    <a class="dropdown-item" href="#">Something else here</a>
+  </div>
 </div>
