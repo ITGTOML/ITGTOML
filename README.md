@@ -9,6 +9,7 @@
 <br>
 <br>
 [Strawpage](https://itgtoml.straw.page)ㅤㅤ · ㅤㅤ[Carrd](https://itgtoml.carrd.co)ㅤㅤ ·ㅤㅤ [Ata](https://itgtoml.atabook.org)
+
 <br>
 read carrd before proceeding, __extremely mandatory.__
   
