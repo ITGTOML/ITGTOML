@@ -12,7 +12,7 @@
 <br>
 <br>
 
-[Strawpage](https://itgtoml.straw.page)ㅤㅤ · ㅤㅤ[Carrd](https://itgtoml.carrd.co)ㅤㅤ ·ㅤㅤ [Ata](https://itgtoml.atabook.org)ㅤㅤ ·ㅤㅤ [PrnsPage](https://en.pronouns.page/@itgtoml)
+[Strwpg](https://itgtoml.straw.page)ㅤ · ㅤ[Carrd](https://itgtoml.carrd.co)ㅤ ·ㅤ [Ata](https://itgtoml.atabook.org)ㅤ ·ㅤ [Prns](https://en.pronouns.page/@itgtoml)
 
 
 read carrd before proceeding, __extremely mandatory.__ 
