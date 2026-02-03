@@ -7,7 +7,7 @@
 <img width="570" height="163" alt="Untitled275_20260202013847" src="https://github.com/user-attachments/assets/8b5968c6-6b7f-47d0-b771-f5d8215d79bd" />
 <br>
 <br>
-> ❝ Everyone who loves under(?) the sun is short-lived.
+> ❝ **Everyone who loves** *under* **the sun is short-lived.**
 <br>
 <br>
 <br>
