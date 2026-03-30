@@ -4,7 +4,7 @@
 <br>
 <br>
 
-[atabook](https:/itgtoml.atabook.org)ㅤ·ㅤ[carrd](https://itgtoml.carrd.co)ㅤ·ㅤ[strawpage](https://itgtomlii.straw.page)
+[atabook](https://itgtoml.atabook.org)ㅤ·ㅤ[carrd](https://itgtoml.carrd.co)ㅤ·ㅤ[strawpage](https://itgtomlii.straw.page)
 <br>
 <br>
 Please read carrd _before_ any interaction, *extremely mandatory.*
