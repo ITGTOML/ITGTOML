@@ -15,7 +15,7 @@ Please read carrd _before_ any interaction, *extremely mandatory.*
 
  <sub>
   <br>
-  Lawrence. Seven. Apollo.
+  Giovanni. Apollo.
   <br>
   C+H advocate/strongly encouragedㅤㅤStrict no roleplayingㅤㅤDNC
   <br>
